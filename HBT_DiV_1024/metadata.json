@@ -8,7 +8,7 @@
     "TopCellName": "FMD_QNC_HBT_DiV_1024",
     "Width": "0.71mm",
     "Height": "0.8mm",
-    "NumberOfSamples": "20"
+    "NumberOfSamples": "10"
   },
   "FinalWaferThickness": "200um"
 }

@@ -8,7 +8,7 @@
     "TopCellName": "FMD_QNC_HBT_ACT_L",
     "Width": "0.502mm",
     "Height": "0.602mm",
-    "NumberOfSamples": "20"
+    "NumberOfSamples": "10"
   },
   "FinalWaferThickness": "200um"
 }
